@@ -75,25 +75,24 @@ cd WiDS-Datathon-2025-4th-place-solution
 pip install -r requirements.txt
 ```
 ---
-📋 Key Scripts and Notebooks
+## 📋 Key Scripts and Notebooks
 WiDS_Datathon2025__4th_place_solution.ipynb - Full training notebook with PCA, threshold tuning, and ensemble training.
 
-❌ What Did Not Work
-Using per-model weights for ensembling.
-
-Overly complex stacking approaches.
-
-Aggressive data augmentation and feature engineering without proper CV testing.
+## ❌ What Did Not Work
+*Using per-model weights for ensembling.
+*Overly complex stacking approaches.
+*Aggressive data augmentation and feature engineering without proper CV testing.
 
 ---
-📫 Contact
+## 📫 Contact
 For any questions, feel free to reach out via GitHub issues or direct messages.
 
-🔗 Links
+## 🔗 Links
 Kaggle Forum Post: WiDS Datathon 2025 4th Place Solution
 
 Competition Page: WiDS Datathon 2025
 
-⭐ Acknowledgments
+## ⭐ Acknowledgments
+
 Special thanks to the WiDS community and fellow competitors for valuable insights and shared knowledge.
 ---
