@@ -94,5 +94,6 @@ Competition Page: WiDS Datathon 2025
 
 ## ⭐ Acknowledgments
 
+A heartfelt thank you to the WiDS Datathon 2025 organizers and the Kaggle community for providing this fantastic opportunity to work on a meaningful real-world challenge. The insights shared in the discussion forums were incredibly helpful and made this journey truly rewarding.
 Special thanks to the WiDS community and fellow competitors for valuable insights and shared knowledge.
 ---
