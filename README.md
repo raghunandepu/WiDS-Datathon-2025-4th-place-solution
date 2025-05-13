@@ -1,7 +1,4 @@
-# WiDS-Datathon-2025-4th-place-solution
-Top 4 Winning Solution for WiDS Datathon 2025
-
-# 🥇 WiDS Datathon 2025 - Top 4 Solution (Data Raptors)
+# 🥇 WiDS Datathon 2025 - 4th place solution (Data Raptors)
 
 Welcome to the **Data Raptors**' top 4 winning solution for the **WiDS Datathon 2025**. This repository contains the full code used to achieve a **Private Leaderboard Score** of **0.81413** and a **Public Leaderboard Score** of **0.77506**, securing 4th place globally.
 
