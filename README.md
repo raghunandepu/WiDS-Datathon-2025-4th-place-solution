@@ -88,7 +88,7 @@ WiDS_Datathon2025__4th_place_solution.ipynb - Full training notebook with PCA, t
 For any questions, feel free to reach out via GitHub issues or direct messages.
 
 ## 🔗 Links
-Kaggle Forum Post: WiDS Datathon 2025 4th Place Solution
+Kaggle Forum Post: [WiDS Datathon 2025 4th Place Solution](https://www.kaggle.com/competitions/widsdatathon2025/discussion/578756)
 Competition Page: [WiDS Datathon 2025](https://www.kaggle.com/competitions/widsdatathon2025/overview)
 Wids-global-datathon-2025-winners: https://www.widsworldwide.org/get-inspired/blog/wids-global-datathon-2025-winners/
 
