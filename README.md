@@ -79,9 +79,9 @@ pip install -r requirements.txt
 WiDS_Datathon2025__4th_place_solution.ipynb - Full training notebook with PCA, threshold tuning, and ensemble training.
 
 ## ❌ What Did Not Work
-*Using per-model weights for ensembling.
-*Overly complex stacking approaches.
-*Aggressive data augmentation and feature engineering without proper CV testing.
+- Using per-model weights for ensembling.
+- Overly complex stacking approaches.
+- Aggressive data augmentation and feature engineering without proper CV testing.
 
 ---
 ## 📫 Contact
