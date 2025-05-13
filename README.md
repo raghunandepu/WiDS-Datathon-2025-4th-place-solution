@@ -48,12 +48,12 @@ The dataset included:
 ---
 
 ## 📂 Repository Structure
+
 WiDS-Datathon-2025-Top4-Solution/
 ├── README.md # This file
 ├── requirements.txt # Required packages
 └── notebooks/
 └── WiDS_Datathon2025__4th_place_solution.ipynb # Main training notebook
-
 
 ---
 
