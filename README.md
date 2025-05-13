@@ -73,7 +73,8 @@ Clone the repo and install the required packages:
 git clone https://github.com/yourusername/WiDS-Datathon-2025-4th-place-solution.git
 cd WiDS-Datathon-2025-4th-place-solution
 pip install -r requirements.txt
-
+```
+---
 📋 Key Scripts and Notebooks
 WiDS_Datathon2025__4th_place_solution.ipynb - Full training notebook with PCA, threshold tuning, and ensemble training.
 
@@ -84,7 +85,7 @@ Overly complex stacking approaches.
 
 Aggressive data augmentation and feature engineering without proper CV testing.
 
-
+---
 📫 Contact
 For any questions, feel free to reach out via GitHub issues or direct messages.
 
@@ -95,3 +96,4 @@ Competition Page: WiDS Datathon 2025
 
 ⭐ Acknowledgments
 Special thanks to the WiDS community and fellow competitors for valuable insights and shared knowledge.
+---
