@@ -89,8 +89,8 @@ For any questions, feel free to reach out via GitHub issues or direct messages.
 
 ## 🔗 Links
 Kaggle Forum Post: WiDS Datathon 2025 4th Place Solution
-
-Competition Page: WiDS Datathon 2025
+Competition Page: [WiDS Datathon 2025](https://www.kaggle.com/competitions/widsdatathon2025/overview)
+Wids-global-datathon-2025-winners: https://www.widsworldwide.org/get-inspired/blog/wids-global-datathon-2025-winners/
 
 ## ⭐ Acknowledgments
 
